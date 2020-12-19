@@ -1,7 +1,7 @@
 ### Cara Install & Setup
 1.silahkan clone atau download repository ini.<br>
 2.silahkan extrack dan rename nama folder menjadi garuda_crud_generator.<br>
-3.buat sebuah database baru dengan nama cigenerator lalu import file cigenerator.sql.<br>
+3.buat sebuah database baru dengan nama id15718503_rsgangnam.sql lalu import file id15718503_rsgangnam.sql.sql.<br>
 4.buka web browser dan masukan http://localhost/garuda_crud_generator/ pada address bar.
 
 ### Autehntifikasi
